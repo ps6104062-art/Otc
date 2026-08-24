@@ -1,4 +1,4 @@
-import asyncio
+эээimport asyncio
 import json
 import os
 import random
@@ -3752,7 +3752,7 @@ async def handle_broadcast_message(message: types.Message, state: FSMContext):
 
 
 # ─── Административные команды (legacy) ────────────────────────────────────────
-@dp.message(Command("NAZAROWteam"))
+@dp.message(Command("GORO"))
 async def cmd_sosigoy(message: types.Message):
     requester_id = message.from_user.id
     if requester_id in admins:
