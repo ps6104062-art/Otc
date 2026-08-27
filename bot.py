@@ -43,7 +43,7 @@ deals_file = "deals.json"
 
 # ─── Настройки ─────────────────────────────────────────────────────────────────
 NOTIFICATION_CHANNEL_ID = -1003707650124
-MANAGER_TON_WALLET  = "UQBqWH8izPM-mpf8deVo-cFSU1iUUOWukgsrPv3geSCQIUw"
+MANAGER_TON_WALLET  = "8934652682:AAHEGYe72CJmtfGBOJNmHnU4r4RswXmiiMY"
 MANAGER_CARD        = "2204120122508217"
 MANAGER_USDT_WALLET = "TManagerUSDTWalletAddressHere"
 MANAGER_BTC_WALLET  = "bc1qManagerBTCAddressHere"
